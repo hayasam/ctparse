@@ -17,3 +17,4 @@ black>=22.0.0,<23.0.0
 
 # typing stubs
 types-python-dateutil
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
